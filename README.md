@@ -18,3 +18,4 @@ This data type can represent Vector of any dimension. It has the following prope
 - Magnitude Calculation
 - Projection onto another Vector
 - equals method to check equality of two Vectors
+- print method to print in [ u1, u2, u3, ..., un ] form

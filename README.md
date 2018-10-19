@@ -10,7 +10,7 @@ This data type has the following properties:
 # Project 02
 # Vector Data Type Implementation
 This data type can represent Vector of any dimension. It has the following properties:
-- Takes any number (at least one) of parameter to construct the Vector
+- Takes any number (at least one) of parameter(s) to construct the Vector
 - Addition, Subtraction, Scalar Multiplication and Division operations
 - Dot Product
 - Cross Product (for 3D and 7D) Vectors

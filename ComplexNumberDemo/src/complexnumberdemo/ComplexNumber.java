@@ -2,8 +2,8 @@ package complexnumberdemo;
 
 class ComplexNumber {
     // a + bi
-    double a;
-    double b;
+    private double a;
+    private double b;
     
     // constructor
     public ComplexNumber(double a, double b){

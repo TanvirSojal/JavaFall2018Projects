@@ -3,8 +3,8 @@ package vectordemo;
 import java.util.ArrayList;
 
 class Vector {
-    ArrayList < Double >  components = new ArrayList<>(); // components of the Vector
-    double EPS; // epsilon for our floating point computation
+    private ArrayList < Double >  components = new ArrayList<>(); // components of the Vector
+    private double EPS; // epsilon for our floating point computation
     
     // constructor method
     public Vector(double x, double ...u){ // taking arbitrary number of parameters, since dimension is not fixed, but at least 1
